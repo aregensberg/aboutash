@@ -1,12 +1,19 @@
-h1 {
-	color: black;
+body {
+	background: gold;
 }
 
-li{
-	color: forestgreen;
+h1 {
+	color: teal;
+	font-family: Arial, sans-serif;
 }
 
 img{
-	width: 20em;
-	height: 30em;
+	width: 30em;
+	height: 20em;
+}
+
+h3 {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 30px;
 }
